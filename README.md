@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @daviddigital
-- 👀 I’m currently a software developer at Genie Solutions working on medical SaaS
-- 🌱 I’m currently learning react & ruby on rails
 - 📫 You can find my portfolio and contact details at [dwatts.com.au](https://www.dwatts.com.au)
 
 <!---
