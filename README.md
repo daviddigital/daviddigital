@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daviddigital
-- Currently working on personal web app projects ([nwtracker.app](https://nwtracker.app)) with Ruby on Rails & React
+- Currently building [nwtracker.app](https://nwtracker.app) with Ruby on Rails & React 
 - 📫 You can find my portfolio and contact details at [dwatts.com.au](https://www.dwatts.com.au)
 
 <!---
