@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daviddigital
+- 👋 Hi, I’m David Watts
 - Currently building [nwtracker.app](https://nwtracker.app) with Ruby on Rails & React 
 - 📫 You can find my portfolio and contact details at [dwatts.com.au](https://www.dwatts.com.au)
 
